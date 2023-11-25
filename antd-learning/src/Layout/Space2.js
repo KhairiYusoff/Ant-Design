@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Space } from 'antd';
-const App = () => (
+const Space2 = () => (
   <Space
     direction="vertical"
     size="middle"
@@ -22,4 +22,4 @@ const App = () => (
     </Card>
   </Space>
 );
-export default App;
+export default Space2;
