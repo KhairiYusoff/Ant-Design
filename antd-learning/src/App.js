@@ -8,7 +8,7 @@ import Grid3 from "./Layout/Grid/Grid3";
 import Grid4 from "./Layout/Grid/Grid4";
 import Grid5 from "./Layout/Grid/Grid5";
 import Collapse1 from "./Data Display/Collapse/Collapse1";
-import Icon2 from "./General/Icon/Icon2";
+import Icon3 from "./General/Icon/Icon3";
 function App() {
   return (
     <>
@@ -16,7 +16,7 @@ function App() {
       <Grid2 />
       <Grid3 />
       <Grid4 /> */}
-      <Icon2 />
+      <Icon3 />
     </>
   );
 }
