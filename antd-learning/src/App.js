@@ -10,10 +10,11 @@ import Grid5 from "./Layout/Grid/Grid5";
 import Collapse1 from "./Data Display/Collapse/Collapse1";
 import Icon3 from "./General/Icon/Icon3";
 import Collapse2 from "./Data Display/Collapse/Collapse2";
+import Image1 from "./Data Display/Image/Image1";
 function App() {
   return (
     <>
-      <Collapse2 />
+      <Image1 />
     </>
   );
 }
