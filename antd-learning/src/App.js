@@ -9,14 +9,11 @@ import Grid4 from "./Layout/Grid/Grid4";
 import Grid5 from "./Layout/Grid/Grid5";
 import Collapse1 from "./Data Display/Collapse/Collapse1";
 import Icon3 from "./General/Icon/Icon3";
+import Collapse2 from "./Data Display/Collapse/Collapse2";
 function App() {
   return (
     <>
-      {/* <Grid1 />
-      <Grid2 />
-      <Grid3 />
-      <Grid4 /> */}
-      <Icon3 />
+      <Collapse2 />
     </>
   );
 }
