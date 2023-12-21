@@ -11,10 +11,11 @@ import Collapse1 from "./Data Display/Collapse/Collapse1";
 import Icon3 from "./General/Icon/Icon3";
 import Collapse2 from "./Data Display/Collapse/Collapse2";
 import Image1 from "./Data Display/Image/Image1";
+import Image2 from "./Data Display/Image/Image2";
 function App() {
   return (
     <>
-      <Image1 />
+      <Image2 />
     </>
   );
 }
