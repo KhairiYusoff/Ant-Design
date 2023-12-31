@@ -13,10 +13,11 @@ import Collapse2 from "./Data Display/Collapse/Collapse2";
 import Image1 from "./Data Display/Image/Image1";
 import Image2 from "./Data Display/Image/Image2";
 import Table1 from "./Data Display/Table/Table1";
+import Table2 from "./Data Display/Table/Table2";
 function App() {
   return (
     <>
-      <Table1 />
+      <Table2 />
     </>
   );
 }
