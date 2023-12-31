@@ -71,5 +71,5 @@ const data = [
         tags: ['cool', 'teacher'],
     },
 ];
-const App = () => <Table columns={columns} dataSource={data} />;
-export default App;
+const Table1 = () => <Table columns={columns} dataSource={data} />;
+export default Table1;
