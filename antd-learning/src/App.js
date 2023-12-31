@@ -15,10 +15,11 @@ import Image2 from "./Data Display/Image/Image2";
 import Table1 from "./Data Display/Table/Table1";
 import Table2 from "./Data Display/Table/Table2";
 import Table3 from "./Data Display/Table/Table3";
+import Table4 from "./Data Display/Table/Table4";
 function App() {
   return (
     <>
-      <Table3 />
+      <Table4 />
     </>
   );
 }
