@@ -19,11 +19,12 @@ import Table4 from "./Data Display/Table/Table4";
 import Anchor1 from "./Navigation/Anchor/Anchor1";
 import Anchor2 from "./Navigation/Anchor/Anchor2";
 import Anchor3 from "./Navigation/Anchor/Anchor3";
+import Breadcrumb1 from "./Navigation/Breadcrumb/Breadcrumb1"
 
 function App() {
   return (
     <>
-      <Anchor3 />
+      <Breadcrumb1 />
     </>
   );
 }
