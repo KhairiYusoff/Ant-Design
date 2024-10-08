@@ -16,10 +16,14 @@ import Table1 from "./Data Display/Table/Table1";
 import Table2 from "./Data Display/Table/Table2";
 import Table3 from "./Data Display/Table/Table3";
 import Table4 from "./Data Display/Table/Table4";
+import Anchor1 from "./Navigation/Anchor/Anchor1";
+import Anchor2 from "./Navigation/Anchor/Anchor2";
+import Anchor3 from "./Navigation/Anchor/Anchor3";
+
 function App() {
   return (
     <>
-      <Table4 />
+      <Anchor3 />
     </>
   );
 }
